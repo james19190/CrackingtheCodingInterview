@@ -1,5 +1,4 @@
-import java.lang.Math;
-import java.util.HashMap;
+
 import java.util.HashSet;
 
 public class test {
@@ -26,7 +25,7 @@ public class test {
         int count = 0;
         HashSet<Integer> numlist = new HashSet<>();
 
-        for (int i = 0; i < array.length; i++){
+        for (int i = 0; i < array.length; i++){  
             numlist.add(array[i]);
         }
 
