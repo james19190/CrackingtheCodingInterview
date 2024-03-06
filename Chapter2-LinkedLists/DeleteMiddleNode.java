@@ -23,7 +23,7 @@ public class DeleteMiddleNode {
                 break;
             }
             previousNode = root;
-            root = root.next;
+            root = root.next; 
         }
         
 
